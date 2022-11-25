@@ -67,6 +67,7 @@ int main()
     printf("%s\n",str2);
     return 0;
 }
+}
 /**
 
 本地编辑
@@ -74,10 +75,3 @@ int main()
 **/
 
 
-
-
-
-}
-/**
-  远程edit
-**/
